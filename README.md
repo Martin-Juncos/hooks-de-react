@@ -25,3 +25,7 @@ Los hooks son funciones que "enganchan" características de React, como el estad
 8. **`useImperativeHandle`**: Personaliza las instancias de referencia cuando se usa `React.forwardRef`. Se emplea principalmente para controlar cómo otros componentes acceden a ciertas funcionalidades internas.
 
 9. **`useLayoutEffect`**: Similar a `useEffect`, pero se ejecuta de manera síncrona después de que todas las mutaciones del DOM hayan sido realizadas, lo cual lo hace útil para leer y aplicar cambios al DOM inmediatamente.
+
+
+
+Made by Prof. Martin with a lot of 💖 and ☕
